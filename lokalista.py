@@ -1,7 +1,6 @@
 import os
 import streamlit as st
 import pandas as pd
-from streamlit_extras.tags import tagger_component
 from streamlit_gsheets import GSheetsConnection
 import streamlit_scrollable_textbox as stx
 from dotenv import load_dotenv
